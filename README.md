@@ -1,9 +1,9 @@
 # Steve's Bed and Breakfast
 
-William Vanderpool
+Wilhelmina Vanderpool
 
 Bootstrap BnB project for Web Development I (11/14/24)
 
-https://github.com/ItsMeWillyV/bootstrap-bnb
+https://github.com/MinasaurV/bootstrap-bnb
 
 ![image](image.png)
